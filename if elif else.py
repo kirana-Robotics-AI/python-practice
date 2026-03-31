@@ -1,4 +1,4 @@
-#if-elif-else
+#if-elif-else is a conditional statement
 
 signal=input("what is the colour of the signal:").lower()
 
