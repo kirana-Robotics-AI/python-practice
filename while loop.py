@@ -49,7 +49,12 @@ while trials<=3:
         print("INCORRECT")
     
 
-
+# 5 table using while loop
+num = 5
+i = 1
+while i<=10:
+    print(f"{num} x {i} = {num*i}")
+    i +=1
 
 
 
